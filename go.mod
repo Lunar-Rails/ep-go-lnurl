@@ -1,12 +1,12 @@
 module github.com/lunar-rails/ep-go-lnurl
 
-go 1.26.4
+go 1.26.10
 
 require (
 	github.com/btcsuite/btcd/btcec/v2 v2.3.3
 	github.com/nbd-wtf/ln-decodepay v1.13.0
 	github.com/tidwall/gjson v1.19.0
-	golang.org/x/net v0.57.0
+	golang.org/x/net v0.60.0
 )
 
 require (
@@ -61,13 +61,13 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.36.0 // indirect
-	golang.org/x/crypto v0.54.0 // indirect
+	golang.org/x/crypto v0.57.0 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
-	golang.org/x/mod v0.37.0 // indirect
-	golang.org/x/sync v0.22.0 // indirect
-	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/term v0.45.0 // indirect
-	golang.org/x/text v0.40.0 // indirect
-	golang.org/x/tools v0.47.0 // indirect
+	golang.org/x/mod v0.41.0 // indirect
+	golang.org/x/sync v0.23.0 // indirect
+	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/term v0.46.0 // indirect
+	golang.org/x/text v0.42.0 // indirect
+	golang.org/x/tools v0.49.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
